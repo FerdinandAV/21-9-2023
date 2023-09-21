@@ -1,0 +1,8 @@
+void setup(){
+partOfWord("København",1,4);
+}
+
+void partOfWord(String København,int one, int four){
+ String Øben = København.substring(one,one+four);
+ println(Øben);
+}
