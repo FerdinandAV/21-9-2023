@@ -1,5 +1,5 @@
  String [] arr = { "Eminem", "Jack Harlow", "Dua Lipa", "Travis Scott", "Jay Z" };
-String [] arrSong = { "diller", "mand", "din mor", "din far", "Jakob"};
+String [] arrSong = { "Mockingbird", "What's poppin", "Break my heart", "Highest in the room", "In paris"};
 for(int i=0;i<arr.length;i++){
 println(1+i+". "+arr[i]+" : "+arrSong[i]);
 }
